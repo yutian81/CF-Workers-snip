@@ -8,3 +8,5 @@ export default {
         return fetch(new Request("https://" + hostname + url.pathname + url.search, request));
     }
 };
+
+// KI的snip项目：snippet.danfeng.site
